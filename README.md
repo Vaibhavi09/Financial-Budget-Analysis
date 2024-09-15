@@ -18,3 +18,4 @@ Generating KPI Metrics (Loan Portfolio Metrics, Financial Performance, and Borro
 Exporting the project_data into .csv and importing the data into Tableau
 Data Visualization in Tableau.
 
+Find the Visualisation here: https://public.tableau.com/app/profile/vaibhavi.jha/viz/LoanPerformanceMetrics-FinancialAnalysis/LoanPaymentsvsAverageProfit#2
